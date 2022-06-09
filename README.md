@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @navyseal8
-- 👀 I’m interested in Golang, Python. 
+- 👀 I’m interested in Golang, Python, OpenShift, K8S. 
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on things on k8s and containers.
 - 📫 jem@k8s.sg
